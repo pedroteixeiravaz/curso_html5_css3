@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+body{
+  color: rgba(171, 171, 171, 0.799);
+  font-size: 20px;
+  background-image: url('../ex022/imagens/wallpaper002.jpg');
+  background-size: 1920px 905px;
+  background-repeat: no-repeat;
+}
